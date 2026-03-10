@@ -1,0 +1,73 @@
+cbsa,pollutant,trend_stat,sites,year,value
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2000,12.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2000,26.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2000,16.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2001,13.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2001,26.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2001,16.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2002,12.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2002,26.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2002,16.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2003,12.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2003,24.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2003,15.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2004,12.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2004,22.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2004,14.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2005,11.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2005,22.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2005,13.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2006,11.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2006,21.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2006,13.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2007,11.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2007,19.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2007,12.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2008,10.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2008,19.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2008,12.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2009,9.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2009,18.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2009,11.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2010,9.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2010,16.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2010,10.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2011,8.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2011,18.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2011,11.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2012,8.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2012,15.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2012,10.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2013,8.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2013,15.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2013,11.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2014,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2014,15.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2014,10.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2015,8.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2015,15.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2015,9.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2016,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2016,14.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2016,8.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2017,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2017,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2017,9.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2018,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2018,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2018,9.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2019,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2019,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2019,8.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2020,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2020,12.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2020,7.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2021,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2021,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2021,6.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2022,8.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2022,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2022,7.0
+"Houston-The Woodlands-Sugar Land, TX",NO2,Annual Mean,10.0,2023,7.0
+"New York-Newark-Jersey City, NY-NJ-PA",NO2,Annual Mean,4.0,2023,13.0
+"San Francisco-Oakland-Hayward, CA",NO2,Annual Mean,6.0,2023,6.0

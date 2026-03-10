@@ -1,0 +1,37 @@
+city,year,percentage
+new york,2003,4.6
+new york,2004,4.9
+new york,2006,5.3
+new york,2007,4.4
+new york,2008,5.3
+new york,2009,4.1
+new york,2010,3.7
+new york,2011,4.5
+new york,2012,4.6
+new york,2013,3.9
+houston,2014,8.5
+new york,2014,3.7
+houston,2015,8.799999999999999
+new york,2015,6.0
+san francisco,2015,9.1
+houston,2016,8.799999999999999
+san francisco,2016,9.1
+new york,2016,4.8
+new york,2017,4.4
+houston,2017,8.3
+san francisco,2017,7.7
+new york,2018,4.4
+houston,2018,9.0
+san francisco,2018,7.7
+houston,2019,8.799999999999999
+san francisco,2019,8.0
+new york,2019,4.5
+new york,2020,3.8
+houston,2020,9.1
+san francisco,2020,8.0
+san francisco,2021,8.8
+new york,2021,4.9
+houston,2021,10.0
+san francisco,2022,8.8
+new york,2022,4.3
+houston,2022,9.3

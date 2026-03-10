@@ -1,0 +1,126 @@
+fuel_type,year,vehicles,percentage,city
+Electric,2015,,0.024,Houston
+Diesel,2016,1327585.0,6.54,Houston
+Electric,2016,8397.0,0.04,Houston
+Flex,2016,2134218.0,10.51,Houston
+Gasoline,2016,16627687.0,81.92,Houston
+Hybrid,2016,199096.0,0.98,Houston
+Diesel,2017,1369414.0,6.5,Houston
+Electric,2017,11724.0,0.06,Houston
+Flex,2017,2221634.0,10.55,Houston
+Gasoline,2017,17243004.0,81.86,Houston
+Hybrid,2017,217084.0,1.03,Houston
+Diesel,2018,1258596.0,5.92,Houston
+Electric,2018,18990.0,0.09,Houston
+Flex,2018,2236411.0,10.52,Houston
+Gasoline,2018,17514927.0,82.37,Houston
+Hybrid,2018,233649.0,1.1,Houston
+Diesel,2019,1276164.0,6.21,Houston
+Electric,2019,29540.0,0.14,Houston
+Flex,2019,2172324.0,10.57,Houston
+Gasoline,2019,16850264.0,81.98,Houston
+Hybrid,2019,225218.0,1.1,Houston
+Diesel,2020,1188617.0,6.46,Houston
+Electric,2020,36418.0,0.2,Houston
+Flex,2020,1948818.0,10.59,Houston
+Gasoline,2020,15028900.0,81.66,Houston
+Hybrid,2020,201633.0,1.1,Houston
+Diesel,2021,1343897.0,6.41,Houston
+Electric,2021,60528.0,0.29,Houston
+Flex,2021,2070828.0,9.87,Houston
+Gasoline,2021,17249893.0,82.21,Houston
+Hybrid,2021,256661.0,1.22,Houston
+Diesel,2022,1454229.0,6.44,Houston
+Electric,2022,105808.0,0.47,Houston
+Flex,2022,2066360.0,9.16,Houston
+Gasoline,2022,18594658.0,82.4,Houston
+Hybrid,2022,346481.0,1.54,Houston
+Diesel,2023,1592323.0,6.92,Houston
+Electric,2023,175498.0,0.76,Houston
+Flex,2023,1988402.0,8.65,Houston
+Gasoline,2023,18831642.0,81.88,Houston
+Hybrid,2023,410342.0,1.78,Houston
+Electric,2015,,0.0312966651925513,New York City
+Diesel,2016,191300.0,1.69,New York City
+Electric,2016,6100.0,0.05,New York City
+Flex,2016,895500.0,7.93,New York City
+Gasoline,2016,10023500.0,88.74,New York City
+Hybrid,2016,178600.0,1.58,New York City
+Diesel,2017,186700.0,1.65,New York City
+Electric,2017,9400.0,0.08,New York City
+Flex,2017,960800.0,8.47,New York City
+Gasoline,2017,10004400.0,88.15,New York City
+Hybrid,2017,188100.0,1.66,New York City
+Diesel,2018,184600.0,1.62,New York City
+Electric,2018,15500.0,0.14,New York City
+Flex,2018,1003900.0,8.82,New York City
+Gasoline,2018,9975100.0,87.68,New York City
+Hybrid,2018,197500.0,1.74,New York City
+Diesel,2019,186100.0,1.63,New York City
+Electric,2019,23000.0,0.2,New York City
+Flex,2019,1027800.0,9.02,New York City
+Gasoline,2019,9942300.0,87.29,New York City
+Hybrid,2019,210800.0,1.85,New York City
+Diesel,2020,189900.0,1.67,New York City
+Electric,2020,32600.0,0.29,New York City
+Flex,2020,1020500.0,8.98,New York City
+Gasoline,2020,9897000.0,87.08,New York City
+Hybrid,2020,225300.0,1.98,New York City
+Diesel,2021,195400.0,1.73,New York City
+Electric,2021,51900.0,0.46,New York City
+Flex,2021,663700.0,5.88,New York City
+Gasoline,2021,10117400.0,89.58,New York City
+Hybrid,2021,266200.0,2.36,New York City
+Diesel,2022,200400.0,1.79,New York City
+Electric,2022,84700.0,0.75,New York City
+Flex,2022,633100.0,5.64,New York City
+Gasoline,2022,9987900.0,88.98,New York City
+Hybrid,2022,319400.0,2.85,New York City
+Diesel,2023,204800.0,1.82,New York City
+Electric,2023,131300.0,1.17,New York City
+Flex,2023,591100.0,5.26,New York City
+Gasoline,2023,9906000.0,88.14,New York City
+Hybrid,2023,406300.0,3.61,New York City
+Diesel,2024,207200.0,1.84,New York City
+Electric,2024,168100.0,1.49,New York City
+Flex,2024,577800.0,5.14,New York City
+Gasoline,2024,9825200.0,87.33,New York City
+Hybrid,2024,472400.0,4.2,New York City
+Electric,2015,,0.0027726073861787,San Francisco
+Electric,2016,,0.0047903906359804,San Francisco
+Electric,2017,,0.0082766289088324,San Francisco
+Diesel,2018,14920.0,3.25,San Francisco
+Electric,2018,6560.0,1.43,San Francisco
+Flex,2018,11784.0,2.57,San Francisco
+Gasoline,2018,387098.0,84.4,San Francisco
+Hybrid,2018,38312.0,8.35,San Francisco
+Diesel,2019,14210.0,3.15,San Francisco
+Electric,2019,9139.0,2.02,San Francisco
+Flex,2019,10788.0,2.39,San Francisco
+Gasoline,2019,378094.0,83.74,San Francisco
+Hybrid,2019,39263.0,8.7,San Francisco
+Diesel,2020,10214.0,2.44,San Francisco
+Electric,2020,11262.0,2.7,San Francisco
+Flex,2020,10834.0,2.59,San Francisco
+Gasoline,2020,344683.0,82.49,San Francisco
+Hybrid,2020,40850.0,9.78,San Francisco
+Diesel,2021,13185.0,3.02,San Francisco
+Electric,2021,15133.0,3.46,San Francisco
+Flex,2021,10865.0,2.49,San Francisco
+Gasoline,2021,352806.0,80.74,San Francisco
+Hybrid,2021,44965.0,10.29,San Francisco
+Diesel,2022,13298.0,3.11,San Francisco
+Electric,2022,20595.0,4.82,San Francisco
+Flex,2022,10610.0,2.48,San Francisco
+Gasoline,2022,335608.0,78.55,San Francisco
+Hybrid,2022,47151.0,11.04,San Francisco
+Diesel,2023,8938.0,2.15,San Francisco
+Electric,2023,28937.0,6.95,San Francisco
+Flex,2023,8634.0,2.07,San Francisco
+Gasoline,2023,319942.0,76.81,San Francisco
+Hybrid,2023,50091.0,12.03,San Francisco
+Diesel,2024,7906.0,1.89,San Francisco
+Electric,2024,35271.0,8.43,San Francisco
+Flex,2024,8308.0,1.99,San Francisco
+Gasoline,2024,311757.0,74.55,San Francisco
+Hybrid,2024,54956.0,13.14,San Francisco

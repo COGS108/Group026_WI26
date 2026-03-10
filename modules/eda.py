@@ -49,3 +49,27 @@ def plot_stacked_area(df, city, include_gasoline=False, show_legend=True, ax=Non
         ax.get_legend().remove() if ax.get_legend() else None
     
     return ax
+
+def build_city_df(city_str, air_quality_df, asthma_df, smoking_df, ev_df, ridership_df, years=range(2015, 2023), city_label=None):
+    
+    def filt(df, city_col, year_col):
+        df = df[df[city_col].str.contains(city_str, case=False)]
+        return df[df[year_col].isin(years)]
+
+    air = filt(air_quality_df, "cbsa", "year")[["year","value"]].rename(columns={"value":"air_quality"})
+    asth = filt(asthma_df, "city", "year")[["year","percentage"]].rename(columns={"percentage":"asthma"})
+    smoke = filt(smoking_df, "Geography", "Year")[["Year","Current_Smoker_Pct"]].rename(columns={"Year":"year","Current_Smoker_Pct":"smoking"})
+    ride = filt(ridership_df, "city", "year")[["year","ridership"]]
+    ev = filt(ev_df, "city", "year")
+    ev = ev[ev["fuel_type"] == "Electric"][["year","percentage"]].rename(columns={"percentage":"ev"})
+
+    df = air.merge(asth, on="year").merge(smoke, on="year").merge(ev, on="year").merge(ride, on="year")
+
+    df["city"] = city_label if city_label else city_str
+    return df.rename(columns={
+        "air_quality": "pm25",
+        "asthma": "asthma_pct",
+        "smoking": "smoking_pct",
+        "ev": "ev_pct",
+        "ridership": "ridership_count"
+    })

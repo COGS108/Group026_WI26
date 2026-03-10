@@ -188,3 +188,8 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+# Keep processed data
+!data/02-processed/
+!data/02-processed/*.csv
+!data/02-processed/*.CSV
