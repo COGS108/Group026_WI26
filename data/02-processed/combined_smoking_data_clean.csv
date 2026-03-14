@@ -31,16 +31,24 @@ Year,Geography,Source,Metric,Current_Smoker_Pct,Statistically_Unstable
 2021,"New York City, NY",NYC EH Data Portal,Current Smoker % (Adults),9.2,False
 2022,"New York City, NY",NYC EH Data Portal,Current Smoker % (Adults),8.8,False
 2003,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),14.6,False
+2004,"San Francisco County, CA",Interpolated Estimate,Current Smoker (%),14.149999999999999,False
 2005,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),13.7,False
+2006,"San Francisco County, CA",Interpolated Estimate,Current Smoker (%),13.1,False
 2007,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),12.5,False
+2008,"San Francisco County, CA",Interpolated Estimate,Current Smoker (%),12.0,False
 2009,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),11.5,False
+2010,"San Francisco County, CA",Interpolated Estimate,Current Smoker (%),12.7,False
 2011,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),13.9,False
 2012,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),12.8,False
+2013,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),6.8,True
 2014,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),10.7,False
 2015,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),9.5,False
+2016,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),12.2,True
+2017,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),11.3,True
 2018,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),12.1,False
 2019,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),5.5,False
 2020,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),4.7,False
 2021,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),5.6,False
 2022,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),5.6,False
 2023,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),5.5,False
+2024,"San Francisco County, CA",CA Health Interview Survey (CHIS),Current Smoker (%),7.2,True
