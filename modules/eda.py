@@ -67,7 +67,7 @@ def build_city_df(city_str, air_quality_df, asthma_df, smoking_df, ev_df, riders
 
     df["city"] = city_label if city_label else city_str
     return df.rename(columns={
-        "air_quality": "pm25",
+        "air_quality": "no2",
         "asthma": "asthma_pct",
         "smoking": "smoking_pct",
         "ev": "ev_pct",
